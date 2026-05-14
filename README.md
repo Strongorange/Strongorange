@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **FrontEnd, NextJS, TypeScript Deeper**
 
 - 📫 How to reach me **chanhwi.lee6@gmail.com**
+- My Blog **https://strongorange.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
