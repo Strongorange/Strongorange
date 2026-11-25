@@ -23,6 +23,3 @@
 | [flower-water-automation](https://github.com/Strongorange/flower-water-automation) | ESP8266과 토양 수분 센서로 만든 화분 자동 급수기 |
 | [blog-webp-optimizer](https://github.com/Strongorange/blog-webp-optimizer) | 블로그 이미지를 WebP로 줄여 주는 로컬 도구 |
 
-## 연락처
-
-dlcksgnl96@naver.com
